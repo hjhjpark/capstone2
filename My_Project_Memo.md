@@ -18,3 +18,7 @@
 - Failure to predict utilization will waste a lot of food and cause losses.
 
 - Therefore, a more accurate prediction system is required.
+## 3rd Memo
+### Title : Temperature control system during transportation
+## 4th Memo
+### Title : Finance asset warning system 
